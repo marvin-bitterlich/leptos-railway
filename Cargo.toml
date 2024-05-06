@@ -16,7 +16,7 @@ leptos_axum = { git = "https://github.com/leptos-rs/leptos", branch = "main", op
 leptos_meta = { git = "https://github.com/leptos-rs/leptos", branch = "main", features = ["nightly"] }
 leptos_router = { git = "https://github.com/leptos-rs/leptos", branch = "main", features = ["nightly"] }
 log = "0.4"
-simple_logger = { version = "4", features = ["colored"] }
+simple_logger = { version = "5", features = ["colored"] }
 tokio = { version = "1.35.1", optional = true }
 tower = { version = "0.4.13", optional = true }
 tower-http = { version = "0.4", features = ["fs"], optional = true }
