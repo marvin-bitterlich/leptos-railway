@@ -24,7 +24,7 @@ wasm-bindgen = "=0.2.89"
 thiserror = "1.0.51"
 tracing = { version = "0.1.40", optional = true }
 http = "0.2.11"
-serde = { version = "1.0.195", features = ["derive"] }
+serde = { version = "1.0.200", features = ["derive"] }
 
 
 [features]
